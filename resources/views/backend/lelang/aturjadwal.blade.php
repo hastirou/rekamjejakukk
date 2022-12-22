@@ -94,7 +94,6 @@
                     <td><input type="text" readonly name="JumlahGarasi" class="form-control" value="{{$prop->JumlahGarasi}}"></td>
                 </tbody>   
                 </table>
-
                     
                     <div class="form-group">
                         <label for="TanggalMulai" >Tanggal Mulai :
